@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "*.m": "matlab",
+        "vector": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "regex": "cpp",
+        "chrono": "cpp",
+        "random": "cpp",
+        "limits": "cpp",
+        "valarray": "cpp",
+        "ostream": "cpp",
+        "functional": "cpp",
+        "iostream": "cpp",
+        "*.tcc": "cpp"
+    }
+}
